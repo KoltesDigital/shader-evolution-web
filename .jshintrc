@@ -1,0 +1,10 @@
+{
+	"browser": true,
+	"eqeqeq": true,
+	"globals": {
+		"shaderEvolution": false
+	},
+	"undef": true,
+	"unused": true,
+	"worker": true
+}
